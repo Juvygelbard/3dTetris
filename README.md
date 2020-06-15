@@ -1,6 +1,4 @@
-
 # 3d Tetris
----
 <img src="tetris.gif" width=200px>
 
 #### What is this?
