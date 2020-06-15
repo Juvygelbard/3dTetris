@@ -176,13 +176,13 @@ class Help(Menu):
         head.draw(canvas, **kwargs)
         text = GUIText("Welcome to 3d Tetris! This game is all about\n"
                        "procrastination, so please don't play it if there is\n"
-                       "something your really needs to get done.\n\n"
+                       "something you really needs to get done.\n\n"
                        
                        "If somehow this is your first Tetris experience\n"
                        "then you're probably an alien, so welcome to earth!\n"
                        "The game rules are simple: you earn points by filling\n"
                        "up surfaces. When a surface is completely full, the\n"
-                       "blocks of this surface will disappear and you will earn\n"
+                       "blocks of this surface will disappear, and you will earn\n"
                        "points. If you fill up 2 or more surfaces with a single\n"
                        "block, you'll get even more points. The game difficulty\n"
                        "level also affects the amount of points you'll get.\n\n"

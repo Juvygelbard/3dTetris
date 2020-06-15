@@ -510,7 +510,6 @@ class Engine:
 
     def draw(self):
         self._canvas.delete(tkinter.ALL)
-        # print("polygons:", len(self._polygons))
         self._polygons.sort(key=lambda p: p.Z(), reverse=True)
         for p in self._polygons:
             p.draw(self._canvas)
