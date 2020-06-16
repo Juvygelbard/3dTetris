@@ -5,7 +5,7 @@
 A 3d Tetris game made using only numpy and simple tkinter 2d drawing rutines.
 
 #### Why is this?
-Because I had a very improtent thing to do and I was eager to procrastinate.
+Because I had a very important thing to do and I was eager to procrastinate.
 
 #### How to run?
 0. You need Python3 with numpy installed
